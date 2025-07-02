@@ -4,7 +4,7 @@ This simple project uses an **ESP8266** microcontroller and an **SSD1306 OLED di
 
 ## 📷 Preview
 
-> ![Example OLED Display](https://via.placeholder.com/128x64?text=WiFi+Connected)  
+> ![Example OLED Display](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266_oled_display_wiring.png?quality=100&strip=all&ssl=1)  
 > ![image](./image1.png)
 
 ## 📦 Features
